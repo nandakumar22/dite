@@ -73,4 +73,4 @@ app.delete('/register/:id',function(req,res){
    })
 
 }
- module.exports = user
+ module.exports = user;
